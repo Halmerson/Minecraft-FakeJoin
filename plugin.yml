@@ -1,0 +1,13 @@
+name: FakeMessages
+version: 1.0
+main: com.halmerson.Core
+description: Fake Messages!
+commands:
+  fakejoin:
+    description: FakeJoin message!
+  fakeleave:
+    description: FakeLeave message!
+  fakeop:
+    description: FakeOp message!
+  thor:
+    description: Gives you the almighty hammer!
